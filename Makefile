@@ -1,5 +1,5 @@
 DOCKER_REPO=jamesfrosty/age-dockerhub
-VERSION=v1.0.0-beta6
+VERSION=v1.0.0-beta7
 
 .PHONY: image push
 
